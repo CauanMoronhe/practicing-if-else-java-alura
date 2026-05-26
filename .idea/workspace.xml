@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424fe71b-3c23-4349-96ef-a4f1071d1692" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DaMt9dnc1VqX417mgnQIW2Rnys" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainExercicioDescontos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioDiaSemana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioDoadorSangue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioEmprestimo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioMaiorMenor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioParImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioSeguranca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExercicioTriangulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainExerciciosSeguranca.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424fe71b-3c23-4349-96ef-a4f1071d1692" name="Changes" comment="" />
+      <created>1778515939457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778515939457</updated>
+      <workItem from="1778515940641" duration="1223000" />
+      <workItem from="1778517850679" duration="693000" />
+      <workItem from="1778844687140" duration="8901000" />
+      <workItem from="1779470690733" duration="195000" />
+      <workItem from="1779471029818" duration="226000" />
+      <workItem from="1779474802897" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
